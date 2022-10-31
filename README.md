@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GokhanMaden
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JS/TS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gokhanmaden1@gmail.com
